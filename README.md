@@ -15,6 +15,8 @@ We use two models:
 - Year built
 - Latitude and Longitude
 
+- CSV file resouce >>>> [Kaggle.com](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
+
 split the data into training and validation sets.  
 Then train the models and check accuracy using Mean Absolute Error (MAE)
 
