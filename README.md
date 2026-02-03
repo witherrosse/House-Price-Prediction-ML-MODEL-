@@ -16,6 +16,6 @@ We use two models:
 - Latitude and Longitude
 
 split the data into training and validation sets.  
-Then we train the models and check accuracy using Mean Absolute Error (MAE)
+Then train the models and check accuracy using Mean Absolute Error (MAE)
 
 
